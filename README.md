@@ -17,3 +17,5 @@ The Mongo shell is based on Javascript.
 > [Document & CRUD basics](./chapters/crud-basics/CrudBasics.md)
 
 > [Structuring documents](./chapters/structuringDocuments/StructuringDocuments.md)
+
+> [Exploring tools](./chapters/exploring-tools/ExploringTools.md)
