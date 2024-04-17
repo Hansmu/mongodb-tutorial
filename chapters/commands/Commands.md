@@ -68,3 +68,22 @@ You can append `.pretty()` to pretty print the JSON.
 ```bash
 db.products.find().pretty()
 ```
+
+### To drop a DB
+
+In order to drop a DB, you need to first select it using use:
+```bash
+use someDatabaseName
+```
+
+And then drop it:
+```bash
+db.dropDatabase()
+```
+
+### To drop a collection
+
+In order to drop a collection, you can use:
+```bash
+db.someCollection.drop()
+```
