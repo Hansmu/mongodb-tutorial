@@ -94,7 +94,7 @@ mongoimport <name-of-the-file> -d <name-of-the-database> -c <collection-name-whe
 Data example is in the `data` folder.
 
 ```bash
-mongoimport tv-shows.json -d moveiData -c movies --jsonArray
+mongoimport tv-shows.json -d moveData -c movies --jsonArray
 ```
 
 If you want to do a fresh import, then you can append the `--drop` flag to the command to drop the collection and re-add with the imported data.

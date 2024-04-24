@@ -23,3 +23,5 @@ The Mongo shell is based on Javascript.
 ### More CRUD details
 
 > [Exploring create](./chapters/exploring-create/ExploringCreate.md)
+
+> [Exploring read](./chapters/exploring-read/ExploringRead.md)
