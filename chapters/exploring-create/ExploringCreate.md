@@ -5,7 +5,7 @@ Remember, there are three methods:
 * insertMany
 * insert - should not be used
 
-Now, when you're doing `inserMany`, there are a bunch of concerns.
+Now, when you're doing `insertMany`, there are a bunch of concerns.
 
 When you're inserting many elements using the `insertMany` method, then you'll see a certain type of behaviour which is called an "Ordered Insert".
 
@@ -52,7 +52,7 @@ Accessing these three things all take a different amount of time.
 * Journal is a simple kind of "todo" file, telling the server that these kinds of things need to be saved on disk.
 * Saving on the disk requires finding a location, recalculations etc. So this is the heaviest operation.
 
-By default, Mongo gives you a confirmation once your data is in memory.
+By default, Mongo gives you a confirmation once your data is in memory. (Starting from 6.1, the default is journal.)
 
 There is an issue here - the DB can go down because of an event. Maybe a power loss. If data hasn't managed to be written from memory before then, then that means the data will be lost.
 

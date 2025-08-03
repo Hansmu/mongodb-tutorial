@@ -25,3 +25,5 @@ The Mongo shell is based on Javascript.
 > [Exploring create](./chapters/exploring-create/ExploringCreate.md)
 
 > [Exploring read](./chapters/exploring-read/ExploringRead.md)
+
+> [Exploring update](./chapters/exploring-update/ExploringRead.md)
