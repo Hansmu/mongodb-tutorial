@@ -27,3 +27,7 @@ The Mongo shell is based on Javascript.
 > [Exploring read](./chapters/exploring-read/ExploringRead.md)
 
 > [Exploring update](./chapters/exploring-update/ExploringRead.md)
+
+### Beyond CRUD
+
+> [Working with indexes](./chapters/working-with-indexes/WorkingWithIndexes.md)
