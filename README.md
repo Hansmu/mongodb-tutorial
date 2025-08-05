@@ -31,3 +31,5 @@ The Mongo shell is based on Javascript.
 ### Beyond CRUD
 
 > [Working with indexes](./chapters/working-with-indexes/WorkingWithIndexes.md)
+
+> [Geospatial data](./chapters/geospatial-data/GeoSpatialData.md)
