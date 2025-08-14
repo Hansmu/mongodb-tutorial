@@ -33,3 +33,5 @@ The Mongo shell is based on Javascript.
 > [Working with indexes](./chapters/working-with-indexes/WorkingWithIndexes.md)
 
 > [Geospatial data](./chapters/geospatial-data/GeoSpatialData.md)
+
+> [Aggregation](./chapters/aggregation/Aggregation.md)
