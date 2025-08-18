@@ -35,3 +35,7 @@ The Mongo shell is based on Javascript.
 > [Geospatial data](./chapters/geospatial-data/GeoSpatialData.md)
 
 > [Aggregation](./chapters/aggregation/Aggregation.md)
+
+> [Number types](./chapters/number-types/NumberTypes.md)
+
+> [Security](./chapters/security/Security.md)
