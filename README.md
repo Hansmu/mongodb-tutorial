@@ -39,3 +39,5 @@ The Mongo shell is based on Javascript.
 > [Number types](./chapters/number-types/NumberTypes.md)
 
 > [Security](./chapters/security/Security.md)
+
+> [Performance, fault tolerancy & deployment](chapters/perfAndFault/PerformanceAndFaultTolerance)
