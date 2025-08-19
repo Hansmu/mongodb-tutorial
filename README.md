@@ -41,3 +41,5 @@ The Mongo shell is based on Javascript.
 > [Security](./chapters/security/Security.md)
 
 > [Performance, fault tolerancy & deployment](chapters/perfAndFault/PerformanceAndFaultTolerance)
+
+> [Transactions](chapters/transactions/Transactions.md)
